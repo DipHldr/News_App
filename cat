@@ -1,0 +1,11 @@
+<Route path="/business" element={<News pageSize={5} country='us' category='business' apiKey='d0c3f0d7f84a47c580d1dcb4e889bac9'/>}/>
+<Route path="/entertainment" element={<News pageSize={5} country='us' category='entertainment' apiKey='d0c3f0d7f84a47c580d1dcb4e889bac9'/>}/>
+<Route path="/general" element={<News pageSize={5} country='us' category='general' apiKey='d0c3f0d7f84a47c580d1dcb4e889bac9'/>}/>
+<Route path="/health" element={<News pageSize={5} country='us' category='health' apiKey='d0c3f0d7f84a47c580d1dcb4e889bac9'/>}/>
+<Route path="/science" element={<News pageSize={5} country='us' category='science' apiKey='d0c3f0d7f84a47c580d1dcb4e889bac9'/>}/>
+<Route path="/sports" element={<News pageSize={5} country='us' category='sports' apiKey='d0c3f0d7f84a47c580d1dcb4e889bac9'/>}/>
+<Route path="/technology" element={<News pageSize={5} country='us' category='technology' apiKey='d0c3f0d7f84a47c580d1dcb4e889bac9'/>}/>
+
+
+
+
